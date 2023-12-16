@@ -1,11 +1,11 @@
 # Practica #3 DHT11 CON LCD
-Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11 y una pantalla LCD.
+Este repositorio muestra como podemos programar una ESP32 con el sensor Ultrasonico y una pantalla LCD.
 
 ## Introducción
 
 ### Descripción
 
-La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (```DTH11```) para adquirir temperatura y humedad del entorno; Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
+La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (```Ultrasonico```) para medir la distancia de un entorno; Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
 
 
 ## Material Necesario
@@ -83,7 +83,7 @@ void loop()
 
 
 ```
-2. Instalar la libreria  **DHT sensor library for ESPx** como se muestra en la siguente imagen.
+2. Instalar la libreria  **DHT sensor library for ESPx** y **LiquidCrystal I2C** como se muestra en la siguente imagen.
 
 ![](https://github.com/WilberVD/PRACTICA-3-DHT11-CON-LCD/blob/main/libreria.jpg)
 
@@ -95,13 +95,13 @@ void loop()
 
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
-3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11** 
+3. Colocar la temperatura y humedad dando *doble click* al sensor **Ultrasonico** 
 
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/WilberVD/Practica-4-ESP32-sen-Ult-LCD/blob/main/4.3.jpg)
 
 
 # Créditos
