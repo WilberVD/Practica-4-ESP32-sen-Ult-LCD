@@ -89,7 +89,7 @@ void loop()
 
 3. Hacer la conexion del **Ultrasonico** con la **ESP32** y la **Lcd**  como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/WilberVD/Practica-4-ESP32-sen-Ult-LCD/blob/main/4.2.jpg)
 
 ### Instrucciónes de operación
 
