@@ -87,9 +87,9 @@ void loop()
 
 ![](https://github.com/WilberVD/PRACTICA-3-DHT11-CON-LCD/blob/main/libreria.jpg)
 
-3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
+3. Hacer la conexion del **Ultrasonico** con la **ESP32** y la **Lcd**  como se muestra en la siguente imagen.
 
-![](https://github.com/WilberVD/PRACTICA-3-DHT11-CON-LCD/blob/main/conexion.jpg)
+![]()
 
 ### Instrucciónes de operación
 
@@ -101,7 +101,7 @@ void loop()
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/WilberVD/PRACTICA-3-DHT11-CON-LCD/blob/main/corriendo.jpg)
+![]()
 
 
 # Créditos
