@@ -1,4 +1,4 @@
-# Practica #3 DHT11 CON LCD
+# Practica #4 SENSOR ULTRASONICO CON LCD
 Este repositorio muestra como podemos programar una ESP32 con el sensor Ultrasonico y una pantalla LCD.
 
 ## Introducción
